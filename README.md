@@ -1,4 +1,4 @@
-# Dr license
+# Nodes Reporting Tool
 
 Saas and On prem License Counter Tool - Application/Server Level
 
